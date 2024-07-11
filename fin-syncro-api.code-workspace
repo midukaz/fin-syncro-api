@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../vue/fin-syncro"
+		},
+		{
+			"path": "../myPg"
+		}
+	],
+	"settings": {}
+}
